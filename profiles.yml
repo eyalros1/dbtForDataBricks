@@ -1,0 +1,7 @@
+clean1:
+  target: dev
+  outputs:
+    dev:
+      type: databricks
+      schema: scheme1
+      catalog: dev
