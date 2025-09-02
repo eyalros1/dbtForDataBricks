@@ -1,8 +1,0 @@
-version: 2
-
-sources:
-  - name: sample
-    database: 'samples' # <-- Database name
-    schema: 'tpch' # <-- Schema name
-    tables:
-      - name: orders
